@@ -1,4 +1,4 @@
-# nexusd_streaming
+# Nexus-D Streaming and Stimulation Code to be Used with Medtronic's PC+S
 A collection of scripts that use Nexus-D API by Medtronic to stream brain data from humans implanted with sensing deep brain and cortical electrodes.
 
 The main script is PCS_STREAMING_MAIN.m. Almost all other .m files are helper functions. 
