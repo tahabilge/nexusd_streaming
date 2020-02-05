@@ -9,4 +9,4 @@ This code has been used in a deep brain stimulation project still ongoing at Mas
 
 The script creates a GUI for visualizing data streaming and changing stimulation parameters. Here is a screenshot from a previous version. Newer versions have aesthetic improvements and more functionality for stimulation changes but I don't have access to the hardware anymore.
 
-![App GUI](/images/data_streaming_real_data.PNG)
+![App GUI](https://github.com/tahabilge/nexusd_streaming/blob/master/images/data_streaming_real_data.PNG)
