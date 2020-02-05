@@ -9,4 +9,4 @@ This code has been used in a deep brain stimulation project still ongoing at Mas
 
 The script creates a GUI for visualizing data streaming and changing stimulation parameters. Here is a screenshot from one of the recent versions:
 
-![App GUI](/images/data_streaming_real_data.png)
+![App GUI](/images/data_streaming_real_data.PNG)
