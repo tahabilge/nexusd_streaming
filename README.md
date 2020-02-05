@@ -7,6 +7,6 @@ The code needs the Nexus-D API to work (not includede here). Nexus-D is an API t
 
 This code has been used in a deep brain stimulation project still ongoing at Massachussetts General Hospital/Harvard Medical School.
 
-The script creates a GUI for visualizing data streaming and changing stimulation parameters. Here is a screenshot from one of the recent versions:
+The script creates a GUI for visualizing data streaming and changing stimulation parameters. Here is a screenshot from a previous version. Newer versions have aesthetic improvements and more functionality for stimulation changes but I don't have access to the hardware anymore.
 
 ![App GUI](/images/data_streaming_real_data.PNG)
